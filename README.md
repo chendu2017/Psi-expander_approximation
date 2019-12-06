@@ -1,3 +1,5 @@
+【2019.12.06update】 This paper has been accepted. Forthcoming at *Computers & Industrial Engineering*
+
 # Psi-expander_approximation
 
 This is the code for paper, "Prepositioning Network Design for Disaster Reliefs Stochastic Models and Psi-Expander Models Comparison", which is being reviewed at Computers & Industrial Engineering (20190904)
