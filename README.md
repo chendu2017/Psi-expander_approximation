@@ -1,3 +1,4 @@
+【2019.12.20update】 This paper has been available now. DOI: https://doi.org/10.1016/j.cie.2019.106214
 【2019.12.06update】 This paper has been accepted. Forthcoming at *Computers & Industrial Engineering*
 
 # Psi-expander_approximation
